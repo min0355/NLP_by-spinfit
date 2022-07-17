@@ -1,5 +1,7 @@
 ## NLP (Natural language process) 
 
+<img src="https://github.com/min0355/NLP_spinfit/blob/main/picture/pexels-pixabay-270360.jpg?raw=true" width="386" height="257"/>  
+
 <!-- Quote -->  
 <!-- Table -->  
 
